@@ -1,0 +1,19 @@
+table, tr, th, td {
+	border: 1px solid #39302a;
+}
+body {
+	background-color: #dbd8d8;
+}
+h1,h2 {
+		text-align: center;
+		color: #39302a;
+		font-style: italic;
+}
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+img {
+	width: 35%;
+	display: block;
+}
